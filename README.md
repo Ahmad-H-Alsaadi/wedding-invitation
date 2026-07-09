@@ -1,2 +1,2 @@
 # wedding-invitation
-Our wedding invitation website
+My wedding invitation website
